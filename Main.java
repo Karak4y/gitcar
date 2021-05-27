@@ -21,9 +21,9 @@ public class Main {
         int price = scan.nextInt();
 
 
-        cars[0] = new Car("Lexus", 2003, "white", 7000);
-        cars[1] = new Car("Tayota", 2002, "Black", 10000);
-        cars[2] = new Car("Mercedes-Benz", 2004, "Silver", 9000);
+        cars[0] = new Car("Bugatti", 2003, "white", 7000);
+        cars[1] = new Car("Lamborghini", 2002, "Black", 10000);
+        cars[2] = new Car("Maseratti", 2004, "Silver", 9000);
 //        System.out.println("----------------------");
 //          cars[0].info();
 //
