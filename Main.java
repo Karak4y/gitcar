@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("Enter the price");
         int price = scan.nextInt();
-
+System.out.println("Enter the Model");
 
         cars[0] = new Car("Bugatti", 2003, "white", 7000);
         cars[1] = new Car("Lamborghini", 2002, "Black", 10000);
